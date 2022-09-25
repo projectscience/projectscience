@@ -1,6 +1,6 @@
 This is @projectscience
 
-Enabling a future of data-driven delivery
+Enabling a future of data-driven delivery for complex projects, programmes and portfolios.
 
 For more information see www.projectscience.co.uk
 
